@@ -31,7 +31,7 @@ python directory_tree_generator.py <directory> --output <output_file> --depth <d
 --ignore <extensions>: (Optional) Space-separated list of file extensions to ignore. Include the dot (e.g., .jpg .png).
 
 ##Example:
-python directory_tree_generator.py /path/to/directory --output tree.txt --depth 3 --ignore .jpg .png
+python3 directory_tree_generator.py <directory> --output <output_file> --depth <depth> --ignore <extensions>
 
 ##Contributing
 Contributions are welcome! Please feel free to submit a pull request.
