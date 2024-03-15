@@ -17,8 +17,8 @@ Ensure you have Python 3 installed on your system. You can download it from [pyt
 Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/yourusername/directory-tree-generator.git
-cd directory-tree-generator
+git clone https://github.com/ALEKSJZU/generate-directory-tree.git
+cd generate-directory-tree
 ```
 ##Usage
 
