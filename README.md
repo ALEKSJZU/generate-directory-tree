@@ -20,18 +20,18 @@ Clone this repository to your local machine using:
 git clone https://github.com/YOURUSERNAME/generate-directory-tree.git
 cd generate-directory-tree
 ```
-##Usage
+## Usage
 
-##To generate a directory tree, run the script from the command line:
-
+## To generate a directory tree, run the script from the command line:
+```
 python directory_tree_generator.py <directory> --output <output_file> --depth <depth> --ignore <extensions>
 <directory>: The path to the directory you want to generate the tree for.
 --output <output_file>: (Optional) The path to the output file. Defaults to directory_tree.txt.
 --depth <depth>: (Optional) The maximum depth of the tree. Leave blank for no limit.
 --ignore <extensions>: (Optional) Space-separated list of file extensions to ignore. Include the dot (e.g., .jpg .png).
-
-##Example:
+```
+## Example:
 python3 directory_tree_generator.py <directory> --output <output_file> --depth <depth> --ignore <extensions>
 
-##Contributing
+## Contributing
 Contributions are welcome! Please feel free to submit a pull request.
